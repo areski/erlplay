@@ -1,4 +1,4 @@
 erlplay
 =======
 
-Some basic example in Erlang
+Basic examples in Erlang
